@@ -19,8 +19,11 @@
 <br>
 
   * 柱状图 <br>
-  ![柱状图histogram](https://github.com/lzixin9/Matplotlib-Science-Drawing/blob/master/Pictures/Picture3.png) <br>
-  
+  ![柱状图histogram](https://github.com/lzixin9/Matplotlib-Science-Drawing/blob/master/Pictures/Picture3.png) <br> 
+<br>
+
+  * 直方图 <br>
+  ![直方图hist](https://github.com/lzixin9/Matplotlib-Science-Drawing/blob/master/Pictures/PictureHist.png) <br> 
 <br>
 
 ### 复杂图形绘图
