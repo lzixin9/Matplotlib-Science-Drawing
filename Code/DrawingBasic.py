@@ -76,7 +76,7 @@ class Drawing(object):
         # 显示
         plt.show()
         
-    def hist(self):
+    def draw_hist(self):
         """直方图"""
         # 数据
         x = np.random.normal(1.75, 1, 100000000)
