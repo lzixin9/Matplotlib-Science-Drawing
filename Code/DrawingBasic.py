@@ -75,3 +75,15 @@ class Drawing(object):
 
         # 显示
         plt.show()
+        
+    def hist(self):
+        """直方图"""
+        # 数据
+        x = np.random.normal(1.75, 1, 100000000)
+
+        # 创建画布
+        plt.figure(figsize=(20, 8), dpi=500)
+        # 绘制图像
+        plt.hist(x, 1000)
+        # 显示
+        plt.show()
